@@ -1,0 +1,3 @@
+[submodule "automate-docker"]
+	path = automate-docker
+	url = git@github.com:moods445/automate-docker.git
